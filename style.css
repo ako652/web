@@ -1,0 +1,66 @@
+.header{
+    background: yellow;
+    padding: 20px red;
+    border: 2px green;
+    color: rgb(red, green, blue);
+    height: auto;
+    width: 600px;
+    display: ruby-base-container;
+    margin-left: 500pt;
+    margin-right: auto;
+
+}
+.header1{
+
+    background: black;
+    padding: 20px red;
+    border: 2px brown;
+    color: chocolate;
+    height: auto;
+    width: 600px;
+    
+    
+    
+}
+.right{
+
+    background: brown;
+    padding: 20px red;
+    border: 2px coral;
+    color: black;
+    height: auto;
+    width: 600px;
+    text-align: center;
+    display: block;
+    margin-left: 800pt;
+    margin-right: auto;
+    margin-top: 600px;
+    
+
+}
+table{
+
+    background: black;
+    padding: 20px red;
+    border: 2px blue;
+    color: blue;
+    height: auto;
+    width: 600px;
+    text-align: center;
+}
+.main {
+    background: purple;
+    border:2px red;
+    padding: 20px black;
+    color: royalblue;
+    position: fixed;
+
+
+}
+body{
+
+    background-image: url(https://images0.westend61.de/0001508875pw/scary-deep-sea-fish-with-light-examining-fish-in-plastic-water-bottle-CAIF30221.jpg);
+}
+.container1{
+    background-color: rgb(10, 226, 104);
+}
